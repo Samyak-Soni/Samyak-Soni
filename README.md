@@ -5,7 +5,7 @@
 
 - 📝 Python libraries I've worked with **NumPy, Pandas, OpenCV, Scikit-Learn, Matplotlib, Seaborn**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **Python, Machine Learning algorithms, Computer Vision, Data Science.**
 
 - 📫 How to reach me **samyaksoni46@gmail.com**
 
