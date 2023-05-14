@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samyak Soni</h1>
 <h3 align="center">A passionate machine learning engineer and data science enthusiast from India</h3>
 
-- 🔭 Languages that I use mostly **Python**
+- 🔭 Language that I use mostly **Python**
 
 - 📝 Python libraries I've worked with **NumPy, Pandas, OpenCV, Scikit-Learn, Matplotlib, Seaborn**
 
